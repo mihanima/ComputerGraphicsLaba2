@@ -1,1 +1,1 @@
-# ComputerGraphicsLaba2
+# ComputerGraphicsLaba1+2
